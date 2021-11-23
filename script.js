@@ -13,7 +13,7 @@ let songs = [
     {songName: "Blank Space", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
     {songName: "End Game", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "The Lakes", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: "Red", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "Run", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Gorgeous", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     
 ]
